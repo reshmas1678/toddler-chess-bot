@@ -1,6 +1,7 @@
 name: Daily Chess Lesson Bot
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 14 * * *"  # runs daily
 
