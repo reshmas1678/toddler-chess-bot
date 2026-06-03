@@ -15,3 +15,8 @@
 
 ## Customize
 - Edit lessons.json for curriculum changes
+
+## CMD for Test:
+curl -X POST -H 'Content-type: application/json' \
+--data '{"text":"🚨 Test message from Chess Bot"}' \
+https://hooks.slack.com/services/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
