@@ -1,22 +1,19 @@
-# Toddler Chess Bot (Slack Automation)
+# ♟️ ChessBite AI Learning System
 
-## What this does
-- Sends daily chess lesson to Slack
-- Automatically progresses day-by-day
-- No manual work required
+> A fully automated, adaptive toddler learning system that delivers daily chess micro-lessons via Slack, tracks progress, and evolves difficulty using feedback loops.
 
-## Setup Steps
+---
 
-1. Create Slack webhook
-2. Paste into main.py
-3. Push repo to GitHub
-4. Enable Actions
-5. Done
+# 🚀 System Overview
 
-## Customize
-- Edit lessons.json for curriculum changes
+ChessBite is a **cron-driven intelligent learning pipeline** designed to teach chess to toddlers (starting from ~20 months) using:
 
-## CMD for Test:
-curl -X POST -H 'Content-type: application/json' \
---data '{"text":"🚨 Test message from Chess Bot"}' \
-https://hooks.slack.com/services/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
+- Micro-lessons (≤3 minutes)
+- Story-based learning
+- Adaptive difficulty
+- Parent feedback loop (1–4 scoring)
+- Fully automated Slack delivery
+
+---
+
+# 🧠 High-Level Architecture
