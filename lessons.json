@@ -2,31 +2,421 @@
   {
     "day": 1,
     "level": "Explorer",
-    "concept": "Meet the King",
-    "lesson": "♟ Day 1\nConcept: King\nStory: The King lives in a castle and must be protected.\nActivity: Point to the King piece.\nQuiz: Which is the King?\nParent rating: 1-4"
+    "concept": "King",
+    "lesson": "Story: The King lives in a castle and must be protected.\nActivity: Find the King piece.\nQuiz: Which piece is the King?"
   },
   {
     "day": 2,
     "level": "Explorer",
-    "concept": "Meet the Queen",
-    "lesson": "♟ Day 2\nConcept: Queen\nStory: The Queen is the most powerful helper of the King.\nActivity: Find the Queen.\nQuiz: Who is the Queen?"
+    "concept": "Queen",
+    "lesson": "Story: The Queen is the most powerful helper of the King.\nActivity: Point to the Queen.\nQuiz: Who is the Queen?"
   },
   {
     "day": 3,
     "level": "Explorer",
-    "concept": "Rook Castle",
-    "lesson": "♟ Day 3\nConcept: Rook\nStory: The Rook is a castle tower.\nActivity: Point to the castle piece.\nQuiz: Which piece is the castle?"
+    "concept": "Rook",
+    "lesson": "Story: The Rook is a castle tower that guards the board.\nActivity: Find both Rooks.\nQuiz: Which piece is the castle?"
   },
   {
     "day": 4,
     "level": "Explorer",
-    "concept": "Bishop Diagonal",
-    "lesson": "♟ Day 4\nConcept: Bishop\nStory: Bishop moves on slanted paths.\nActivity: Trace diagonal with finger.\nQuiz: Who moves diagonally?"
+    "concept": "Bishop",
+    "lesson": "Story: The Bishop moves on diagonal paths.\nActivity: Draw diagonal lines in air.\nQuiz: Which piece moves diagonally?"
   },
   {
     "day": 5,
     "level": "Explorer",
-    "concept": "Knight Horse",
-    "lesson": "♟ Day 5\nConcept: Knight\nStory: Knight is a horse that jumps.\nActivity: Say horse jump!\nQuiz: Which piece jumps?"
+    "concept": "Knight",
+    "lesson": "Story: The Knight is a horse that jumps over pieces.\nActivity: Say 'jump' and move Knight.\nQuiz: Which piece jumps?"
+  },
+  {
+    "day": 6,
+    "level": "Explorer",
+    "concept": "Pawn",
+    "lesson": "Story: Pawns are small soldiers moving forward.\nActivity: Move a Pawn one step.\nQuiz: Which piece is the soldier?"
+  },
+  {
+    "day": 7,
+    "level": "Explorer",
+    "concept": "Review Pieces 1–6",
+    "lesson": "Story: Let’s meet all pieces again!\nActivity: Identify King, Queen, Rook.\nQuiz: Point to any 2 pieces."
+  },
+  {
+    "day": 8,
+    "level": "Explorer",
+    "concept": "King Safety",
+    "lesson": "Story: The King must always stay safe.\nActivity: Cover King with hand.\nQuiz: Who do we protect?"
+  },
+  {
+    "day": 9,
+    "level": "Explorer",
+    "concept": "Queen Power",
+    "lesson": "Story: Queen can move anywhere she wants.\nActivity: Move Queen around board.\nQuiz: Who is strongest?"
+  },
+  {
+    "day": 10,
+    "level": "Explorer",
+    "concept": "Rook Straight Lines",
+    "lesson": "Story: Rook travels in straight roads.\nActivity: Move Rook straight.\nQuiz: How does Rook move?"
+  },
+  {
+    "day": 11,
+    "level": "Explorer",
+    "concept": "Bishop Diagonals",
+    "lesson": "Story: Bishop walks on slanted paths.\nActivity: Move diagonally.\nQuiz: Who walks diagonally?"
+  },
+  {
+    "day": 12,
+    "level": "Explorer",
+    "concept": "Knight Jump Again",
+    "lesson": "Story: Knight jumps like a horse.\nActivity: Jump over piece.\nQuiz: Who jumps?"
+  },
+  {
+    "day": 13,
+    "level": "Explorer",
+    "concept": "Pawn Forward",
+    "lesson": "Story: Pawn only goes forward.\nActivity: Move Pawn forward.\nQuiz: Direction of Pawn?"
+  },
+  {
+    "day": 14,
+    "level": "Explorer",
+    "concept": "Weekly Review",
+    "lesson": "Story: Let’s remember all pieces.\nActivity: Name each piece.\nQuiz: Point to King and Queen."
+  },
+  {
+    "day": 15,
+    "level": "Explorer",
+    "concept": "King Always Matters",
+    "lesson": "Story: The King is the most important piece.\nActivity: Point to King first.\nQuiz: Which piece is most important?"
+  },
+  {
+    "day": 16,
+    "level": "Explorer",
+    "concept": "Queen Movement Feel",
+    "lesson": "Story: Queen can move like magic in any direction.\nActivity: Move Queen freely.\nQuiz: Can Queen move everywhere?"
+  },
+  {
+    "day": 17,
+    "level": "Explorer",
+    "concept": "Rook Straight Practice",
+    "lesson": "Story: Rook travels in straight lines like roads.\nActivity: Move Rook horizontally.\nQuiz: Does Rook move curved?"
+  },
+  {
+    "day": 18,
+    "level": "Explorer",
+    "concept": "Bishop Diagonal Practice",
+    "lesson": "Story: Bishop walks on slanted paths.\nActivity: Move Bishop diagonally.\nQuiz: What path does Bishop take?"
+  },
+  {
+    "day": 19,
+    "level": "Explorer",
+    "concept": "Knight Jump Fun",
+    "lesson": "Story: Knight jumps like a playful horse.\nActivity: Jump over a piece.\nQuiz: Who jumps over others?"
+  },
+  {
+    "day": 20,
+    "level": "Explorer",
+    "concept": "Pawn Forward Habit",
+    "lesson": "Story: Pawns always move forward bravely.\nActivity: Move Pawn forward.\nQuiz: Which direction Pawn moves?"
+  },
+  {
+    "day": 21,
+    "level": "Explorer",
+    "concept": "Weekly Review 1",
+    "lesson": "Story: Let’s meet all pieces again.\nActivity: Name all pieces.\nQuiz: Point to Queen."
+  },
+  {
+    "day": 22,
+    "level": "Explorer",
+    "concept": "King Protection Habit",
+    "lesson": "Story: Everyone protects the King.\nActivity: Cover King.\nQuiz: Who do we protect?"
+  },
+  {
+    "day": 23,
+    "level": "Explorer",
+    "concept": "Queen Power Reminder",
+    "lesson": "Story: Queen is strongest helper.\nActivity: Move Queen anywhere.\nQuiz: Who is strongest?"
+  },
+  {
+    "day": 24,
+    "level": "Explorer",
+    "concept": "Rook Range Expansion",
+    "lesson": "Story: Rook travels far.\nActivity: Move Rook across board.\nQuiz: Can Rook move far?"
+  },
+  {
+    "day": 25,
+    "level": "Explorer",
+    "concept": "Bishop Color Stay",
+    "lesson": "Story: Bishop stays on same color.\nActivity: Follow diagonal path.\nQuiz: Does Bishop change color?"
+  },
+  {
+    "day": 26,
+    "level": "Explorer",
+    "concept": "Knight L Shape",
+    "lesson": "Story: Knight moves in L shape.\nActivity: Make L movement.\nQuiz: What shape Knight moves?"
+  },
+  {
+    "day": 27,
+    "level": "Explorer",
+    "concept": "Pawn Capture Intro",
+    "lesson": "Story: Pawn captures diagonally.\nActivity: Capture practice.\nQuiz: How Pawn captures?"
+  },
+  {
+    "day": 28,
+    "level": "Explorer",
+    "concept": "Review Pieces",
+    "lesson": "Story: Let’s review all pieces.\nActivity: Identify all pieces.\nQuiz: Point to King."
+  },
+  {
+    "day": 29,
+    "level": "Explorer",
+    "concept": "King Safety Again",
+    "lesson": "Story: King must stay safe always.\nActivity: Protect King.\nQuiz: Who is safe?"
+  },
+  {
+    "day": 30,
+    "level": "Explorer",
+    "concept": "Queen Movement Freedom",
+    "lesson": "Story: Queen moves freely.\nActivity: Move Queen.\nQuiz: Can Queen move anywhere?"
+  },
+  {
+    "day": 31,
+    "level": "Explorer",
+    "concept": "Rook Straight Lines",
+    "lesson": "Story: Rook moves straight.\nActivity: Horizontal movement.\nQuiz: Straight or diagonal?"
+  },
+  {
+    "day": 32,
+    "level": "Explorer",
+    "concept": "Bishop Diagonal Lines",
+    "lesson": "Story: Bishop moves diagonally.\nActivity: Diagonal movement.\nQuiz: Who moves diagonally?"
+  },
+  {
+    "day": 33,
+    "level": "Explorer",
+    "concept": "Knight Jump Repeat",
+    "lesson": "Story: Knight jumps over pieces.\nActivity: Jump move.\nQuiz: Who jumps?"
+  },
+  {
+    "day": 34,
+    "level": "Explorer",
+    "concept": "Pawn Forward Rule",
+    "lesson": "Story: Pawn moves forward only.\nActivity: Move Pawn.\nQuiz: Direction of Pawn?"
+  },
+  {
+    "day": 35,
+    "level": "Explorer",
+    "concept": "Weekly Review 2",
+    "lesson": "Story: Review all pieces again.\nActivity: Name pieces.\nQuiz: Point to Rook."
+  },
+  {
+    "day": 36,
+    "level": "Explorer",
+    "concept": "King Importance",
+    "lesson": "Story: King is most important.\nActivity: Protect King.\nQuiz: Who is most important?"
+  },
+  {
+    "day": 37,
+    "level": "Explorer",
+    "concept": "Queen Power",
+    "lesson": "Story: Queen is powerful.\nActivity: Move Queen.\nQuiz: Who is powerful?"
+  },
+  {
+    "day": 38,
+    "level": "Explorer",
+    "concept": "Rook Roads",
+    "lesson": "Story: Rook travels like roads.\nActivity: Straight movement.\nQuiz: What path?"
+  },
+  {
+    "day": 39,
+    "level": "Explorer",
+    "concept": "Bishop Paths",
+    "lesson": "Story: Bishop walks slanted.\nActivity: Diagonal.\nQuiz: Which piece slants?"
+  },
+  {
+    "day": 40,
+    "level": "Explorer",
+    "concept": "Knight Fun Jump",
+    "lesson": "Story: Knight jumps.\nActivity: Jump.\nQuiz: Who jumps?"
+  },
+  {
+    "day": 41,
+    "level": "Explorer",
+    "concept": "Pawn Soldier",
+    "lesson": "Story: Pawn is a soldier.\nActivity: Move forward.\nQuiz: Who is soldier?"
+  },
+  {
+    "day": 42,
+    "level": "Explorer",
+    "concept": "Weekly Review 3",
+    "lesson": "Story: Review all pieces.\nActivity: Identify.\nQuiz: Point to King."
+  },
+  {
+    "day": 43,
+    "level": "Explorer",
+    "concept": "King Safety Habit",
+    "lesson": "Story: Always protect King.\nActivity: Cover King.\nQuiz: Who is protected?"
+  },
+  {
+    "day": 44,
+    "level": "Explorer",
+    "concept": "Queen Everywhere",
+    "lesson": "Story: Queen moves everywhere.\nActivity: Free movement.\nQuiz: Can Queen go anywhere?"
+  },
+  {
+    "day": 45,
+    "level": "Explorer",
+    "concept": "Rook Straight Movement",
+    "lesson": "Story: Rook moves straight.\nActivity: Horizontal.\nQuiz: Straight or curve?"
+  },
+  {
+    "day": 46,
+    "level": "Explorer",
+    "concept": "Bishop Diagonal Movement",
+    "lesson": "Story: Bishop moves diagonally.\nActivity: Diagonal path.\nQuiz: Who moves diagonally?"
+  },
+  {
+    "day": 47,
+    "level": "Explorer",
+    "concept": "Knight Jump Pattern",
+    "lesson": "Story: Knight jumps in L.\nActivity: L movement.\nQuiz: What shape?"
+  },
+  {
+    "day": 48,
+    "level": "Explorer",
+    "concept": "Pawn Forward Habit",
+    "lesson": "Story: Pawn goes forward.\nActivity: Move Pawn.\nQuiz: Direction?"
+  },
+  {
+    "day": 49,
+    "level": "Explorer",
+    "concept": "Mini Review",
+    "lesson": "Story: Let’s review.\nActivity: Name pieces.\nQuiz: Point Queen."
+  },
+  {
+    "day": 50,
+    "level": "Explorer",
+    "concept": "King Focus",
+    "lesson": "Story: King is center.\nActivity: Find King.\nQuiz: Who is center?"
+  },
+  {
+    "day": 51,
+    "level": "Explorer",
+    "concept": "Queen Power Play",
+    "lesson": "Story: Queen dominates board.\nActivity: Move Queen.\nQuiz: Strongest piece?"
+  },
+  {
+    "day": 52,
+    "level": "Explorer",
+    "concept": "Rook Control",
+    "lesson": "Story: Rook controls lines.\nActivity: Move straight.\nQuiz: Lines or curves?"
+  },
+  {
+    "day": 53,
+    "level": "Explorer",
+    "concept": "Bishop Control",
+    "lesson": "Story: Bishop controls diagonals.\nActivity: Diagonal movement.\nQuiz: Who controls diagonals?"
+  },
+  {
+    "day": 54,
+    "level": "Explorer",
+    "concept": "Knight Control",
+    "lesson": "Story: Knight jumps control.\nActivity: Jump move.\nQuiz: Who jumps?"
+  },
+  {
+    "day": 55,
+    "level": "Explorer",
+    "concept": "Pawn Control",
+    "lesson": "Story: Pawns move slowly.\nActivity: Move Pawn.\nQuiz: Fast or slow?"
+  },
+  {
+    "day": 56,
+    "level": "Explorer",
+    "concept": "Weekly Review 4",
+    "lesson": "Story: Review all pieces.\nActivity: Identify.\nQuiz: Point King."
+  },
+  {
+    "day": 57,
+    "level": "Explorer",
+    "concept": "King Safety Deep",
+    "lesson": "Story: King must stay safe.\nActivity: Protect.\nQuiz: Who is safe?"
+  },
+  {
+    "day": 58,
+    "level": "Explorer",
+    "concept": "Queen Mobility",
+    "lesson": "Story: Queen moves freely.\nActivity: Move.\nQuiz: Freedom?"
+  },
+  {
+    "day": 59,
+    "level": "Explorer",
+    "concept": "Rook Movement",
+    "lesson": "Story: Rook moves straight.\nActivity: Straight lines.\nQuiz: Straight?"
+  },
+  {
+    "day": 60,
+    "level": "Explorer",
+    "concept": "Full Explorer Review",
+    "lesson": "Story: All pieces are friends.\nActivity: Name all.\nQuiz: Point any piece."
+  },
+  {
+    "day": 61,
+    "level": "Mover",
+    "concept": "Pawn One-Step Rule",
+    "lesson": "Story: Pawns take small careful steps forward.\nActivity: Move Pawn 1 square.\nQuiz: How many steps can Pawn move first time?"
+  },
+  {
+    "day": 62,
+    "level": "Mover",
+    "concept": "Pawn Capture Intro",
+    "lesson": "Story: Pawns capture diagonally like a small swing.\nActivity: Capture a piece diagonally.\nQuiz: How does Pawn capture?"
+  },
+  {
+    "day": 63,
+    "level": "Mover",
+    "concept": "Rook Movement Range",
+    "lesson": "Story: Rook travels far on straight roads.\nActivity: Move Rook across board.\nQuiz: Can Rook move diagonally?"
+  },
+  {
+    "day": 64,
+    "level": "Mover",
+    "concept": "Bishop Color Control",
+    "lesson": "Story: Bishop stays on same color forever.\nActivity: Follow Bishop path.\nQuiz: Does Bishop change color?"
+  },
+  {
+    "day": 65,
+    "level": "Mover",
+    "concept": "Knight L Movement",
+    "lesson": "Story: Knight moves like an L-shaped jump.\nActivity: Move Knight in L shape.\nQuiz: What shape does Knight move?"
+  },
+  {
+    "day": 66,
+    "level": "Mover",
+    "concept": "Queen Combined Power",
+    "lesson": "Story: Queen is Rook + Bishop combined.\nActivity: Move Queen in 2 ways.\nQuiz: Who is most powerful?"
+  },
+  {
+    "day": 67,
+    "level": "Mover",
+    "concept": "King One Step Safety",
+    "lesson": "Story: King moves slowly but safely.\nActivity: Move King 1 square.\nQuiz: How many steps King moves?"
+  },
+  {
+    "day": 68,
+    "level": "Mover",
+    "concept": "Empty Square Awareness",
+    "lesson": "Story: Empty squares are safe walking spaces.\nActivity: Identify empty squares.\nQuiz: Can pieces stand anywhere?"
+  },
+  {
+    "day": 69,
+    "level": "Mover",
+    "concept": "Piece Interaction Intro",
+    "lesson": "Story: Pieces can meet and interact.\nActivity: Place two pieces near.\nQuiz: What happens when pieces meet?"
+  },
+  {
+    "day": 70,
+    "level": "Mover",
+    "concept": "Weekly Movement Review",
+    "lesson": "Story: Let’s review all movement rules.\nActivity: Move each piece once.\nQuiz: Which piece jumps?"
   }
 ]
