@@ -1,9 +1,7 @@
-```yaml
 name: Daily Chess Lesson Bot
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: "*/5 * * * *"
 
