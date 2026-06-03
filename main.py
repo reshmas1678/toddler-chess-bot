@@ -2,7 +2,7 @@
 import json
 import requests
 
-WEBHOOK_URL = "https://hooks.slack.com/services/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"
+WEBHOOK_URL = "SLACK_WEBHOOK_URL"
 
 # Load lessons
 with open("lessons.json") as f:
