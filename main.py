@@ -1,8 +1,9 @@
 # Main entry point for toddler-chess-bot
 import json
 import requests
+import os
 
-WEBHOOK_URL = "SLACK_WEBHOOK_URL"
+WEBHOOK_URL = os.environ["SLACK_WEBHOOK_URL"]
 
 # Load lessons
 with open("lessons.json") as f:
