@@ -1,0 +1,32 @@
+[
+  {
+    "day": 1,
+    "level": "Explorer",
+    "concept": "Meet the King",
+    "lesson": "♟ Day 1\nConcept: King\nStory: The King lives in a castle and must be protected.\nActivity: Point to the King piece.\nQuiz: Which is the King?\nParent rating: 1-4"
+  },
+  {
+    "day": 2,
+    "level": "Explorer",
+    "concept": "Meet the Queen",
+    "lesson": "♟ Day 2\nConcept: Queen\nStory: The Queen is the most powerful helper of the King.\nActivity: Find the Queen.\nQuiz: Who is the Queen?"
+  },
+  {
+    "day": 3,
+    "level": "Explorer",
+    "concept": "Rook Castle",
+    "lesson": "♟ Day 3\nConcept: Rook\nStory: The Rook is a castle tower.\nActivity: Point to the castle piece.\nQuiz: Which piece is the castle?"
+  },
+  {
+    "day": 4,
+    "level": "Explorer",
+    "concept": "Bishop Diagonal",
+    "lesson": "♟ Day 4\nConcept: Bishop\nStory: Bishop moves on slanted paths.\nActivity: Trace diagonal with finger.\nQuiz: Who moves diagonally?"
+  },
+  {
+    "day": 5,
+    "level": "Explorer",
+    "concept": "Knight Horse",
+    "lesson": "♟ Day 5\nConcept: Knight\nStory: Knight is a horse that jumps.\nActivity: Say horse jump!\nQuiz: Which piece jumps?"
+  }
+]
